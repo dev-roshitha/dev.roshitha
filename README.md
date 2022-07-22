@@ -1,6 +1,6 @@
 # dev.roshitha deployed link 👇
 
-ranasinghe98.github.io/dev.roshitha
+https://ranasinghe98.github.io/dev.roshitha
 
 # Tech Stack
 
