@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/dev.roshitha/static/css/main.8a10344c.css",
-    "main.js": "/dev.roshitha/static/js/main.be89ebbc.js",
+    "main.css": "/dev.roshitha/static/css/main.ef8ab650.css",
+    "main.js": "/dev.roshitha/static/js/main.19f9ab4d.js",
     "static/media/dasuni.png": "/dev.roshitha/static/media/dasuni.1df3ac8ca7d7bada56dc.png",
-    "static/media/slide2.jpg": "/dev.roshitha/static/media/slide2.cd95d8c2734b498ed01f.jpg",
-    "static/media/slide1.jpg": "/dev.roshitha/static/media/slide1.b20e8fa9f2abc4ee0fd1.jpg",
     "static/media/edu.png": "/dev.roshitha/static/media/edu.dc1e472d20313f49b852.png",
+    "static/media/slide2.jpg": "/dev.roshitha/static/media/slide2.e3f8244ab63ff3cb1a89.jpg",
+    "static/media/slide1.jpg": "/dev.roshitha/static/media/slide1.3967c14850717541a74c.jpg",
     "static/media/work-ex.png": "/dev.roshitha/static/media/work-ex.d604c8f572c83b2652e5.png",
     "static/media/about-img.png": "/dev.roshitha/static/media/about-img.53264926c5ca7f6f3588.png",
     "static/media/pasyale.png": "/dev.roshitha/static/media/pasyale.eef573243639eb801173.png",
@@ -22,11 +22,11 @@
     "static/media/html.png": "/dev.roshitha/static/media/html.145e041ab82786d7c9be.png",
     "static/media/postman.png": "/dev.roshitha/static/media/postman.f7a285c726fb8ccce77f.png",
     "index.html": "/dev.roshitha/index.html",
-    "main.8a10344c.css.map": "/dev.roshitha/static/css/main.8a10344c.css.map",
-    "main.be89ebbc.js.map": "/dev.roshitha/static/js/main.be89ebbc.js.map"
+    "main.ef8ab650.css.map": "/dev.roshitha/static/css/main.ef8ab650.css.map",
+    "main.19f9ab4d.js.map": "/dev.roshitha/static/js/main.19f9ab4d.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a10344c.css",
-    "static/js/main.be89ebbc.js"
+    "static/css/main.ef8ab650.css",
+    "static/js/main.19f9ab4d.js"
   ]
 }
