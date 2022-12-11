@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dev.roshitha/static/css/main.43277fd3.css",
+    "main.css": "/dev.roshitha/static/css/main.e8db9168.css",
     "main.js": "/dev.roshitha/static/js/main.36e558d4.js",
     "static/media/dasuni.png": "/dev.roshitha/static/media/dasuni.1df3ac8ca7d7bada56dc.png",
     "static/media/edu.png": "/dev.roshitha/static/media/edu.dc1e472d20313f49b852.png",
@@ -22,11 +22,11 @@
     "static/media/html.png": "/dev.roshitha/static/media/html.145e041ab82786d7c9be.png",
     "static/media/postman.png": "/dev.roshitha/static/media/postman.f7a285c726fb8ccce77f.png",
     "index.html": "/dev.roshitha/index.html",
-    "main.43277fd3.css.map": "/dev.roshitha/static/css/main.43277fd3.css.map",
+    "main.e8db9168.css.map": "/dev.roshitha/static/css/main.e8db9168.css.map",
     "main.36e558d4.js.map": "/dev.roshitha/static/js/main.36e558d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.43277fd3.css",
+    "static/css/main.e8db9168.css",
     "static/js/main.36e558d4.js"
   ]
 }
