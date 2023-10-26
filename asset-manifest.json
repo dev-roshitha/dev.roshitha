@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dev.roshitha/static/css/main.d0192179.css",
-    "main.js": "/dev.roshitha/static/js/main.c4ac7880.js",
+    "main.css": "/dev.roshitha/static/css/main.432abfd9.css",
+    "main.js": "/dev.roshitha/static/js/main.0137da58.js",
     "static/media/dasuni.png": "/dev.roshitha/static/media/dasuni.1df3ac8ca7d7bada56dc.png",
     "static/media/edu.png": "/dev.roshitha/static/media/edu.dc1e472d20313f49b852.png",
     "static/media/slide2.jpg": "/dev.roshitha/static/media/slide2.e3f8244ab63ff3cb1a89.jpg",
@@ -9,23 +9,14 @@
     "static/media/about-img.png": "/dev.roshitha/static/media/about-img.53264926c5ca7f6f3588.png",
     "static/media/pasyale.png": "/dev.roshitha/static/media/pasyale.eef573243639eb801173.png",
     "static/media/weather.jpg": "/dev.roshitha/static/media/weather.8f6506c7c809ba7e9a30.jpg",
-    "static/media/mongo.png": "/dev.roshitha/static/media/mongo.1bdd248f946ead8804e1.png",
     "static/media/booking.jpg": "/dev.roshitha/static/media/booking.24a6677b2e6417d475bb.jpg",
-    "static/media/react.png": "/dev.roshitha/static/media/react.0c1e11accb99e6dadc6a.png",
-    "static/media/wp.png": "/dev.roshitha/static/media/wp.9ebc456cb8291cd660da.png",
-    "static/media/php.png": "/dev.roshitha/static/media/php.005f7dddcb633df61b59.png",
     "static/media/my-logo.png": "/dev.roshitha/static/media/my-logo.cc02364fd65cbd2d67d4.png",
-    "static/media/jquery.png": "/dev.roshitha/static/media/jquery.4e41266917735b6c6844.png",
-    "static/media/bootstrap.png": "/dev.roshitha/static/media/bootstrap.945f470ee5ea1860e5e1.png",
-    "static/media/node.png": "/dev.roshitha/static/media/node.253e1a0ad90b55e7314e.png",
-    "static/media/html.png": "/dev.roshitha/static/media/html.145e041ab82786d7c9be.png",
-    "static/media/postman.png": "/dev.roshitha/static/media/postman.f7a285c726fb8ccce77f.png",
     "index.html": "/dev.roshitha/index.html",
-    "main.d0192179.css.map": "/dev.roshitha/static/css/main.d0192179.css.map",
-    "main.c4ac7880.js.map": "/dev.roshitha/static/js/main.c4ac7880.js.map"
+    "main.432abfd9.css.map": "/dev.roshitha/static/css/main.432abfd9.css.map",
+    "main.0137da58.js.map": "/dev.roshitha/static/js/main.0137da58.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0192179.css",
-    "static/js/main.c4ac7880.js"
+    "static/css/main.432abfd9.css",
+    "static/js/main.0137da58.js"
   ]
 }
