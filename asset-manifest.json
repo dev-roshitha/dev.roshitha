@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dev.roshitha/static/css/main.9ebcecd4.css",
-    "main.js": "/dev.roshitha/static/js/main.b418fd7d.js",
+    "main.js": "/dev.roshitha/static/js/main.10eccf10.js",
     "static/media/dasuni.png": "/dev.roshitha/static/media/dasuni.1df3ac8ca7d7bada56dc.png",
     "static/media/edu.png": "/dev.roshitha/static/media/edu.dc1e472d20313f49b852.png",
     "static/media/slide2.jpg": "/dev.roshitha/static/media/slide2.e3f8244ab63ff3cb1a89.jpg",
@@ -13,10 +13,10 @@
     "static/media/my-logo.png": "/dev.roshitha/static/media/my-logo.cc02364fd65cbd2d67d4.png",
     "index.html": "/dev.roshitha/index.html",
     "main.9ebcecd4.css.map": "/dev.roshitha/static/css/main.9ebcecd4.css.map",
-    "main.b418fd7d.js.map": "/dev.roshitha/static/js/main.b418fd7d.js.map"
+    "main.10eccf10.js.map": "/dev.roshitha/static/js/main.10eccf10.js.map"
   },
   "entrypoints": [
     "static/css/main.9ebcecd4.css",
-    "static/js/main.b418fd7d.js"
+    "static/js/main.10eccf10.js"
   ]
 }
