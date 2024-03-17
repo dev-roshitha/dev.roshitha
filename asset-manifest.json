@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/dev.roshitha/static/css/main.d9d06e7c.css",
-    "main.js": "/dev.roshitha/static/js/main.d2701259.js",
+    "main.css": "/dev.roshitha/static/css/main.e71952d7.css",
+    "main.js": "/dev.roshitha/static/js/main.52ea6473.js",
     "static/media/dasuni.png": "/dev.roshitha/static/media/dasuni.1df3ac8ca7d7bada56dc.png",
-    "static/media/img-01.png": "/dev.roshitha/static/media/img-01.52b0c51b9b6c9439f01f.png",
-    "static/media/img-02.png": "/dev.roshitha/static/media/img-02.8dfc3fa65865e93ec01c.png",
     "static/media/edu.png": "/dev.roshitha/static/media/edu.dc1e472d20313f49b852.png",
+    "static/media/img-01.webp": "/dev.roshitha/static/media/img-01.1d546eff570dd172e0de.webp",
+    "static/media/img-02.webp": "/dev.roshitha/static/media/img-02.f40da5a2103483f36c61.webp",
     "static/media/slide2.jpg": "/dev.roshitha/static/media/slide2.e3f8244ab63ff3cb1a89.jpg",
     "static/media/slide1.jpg": "/dev.roshitha/static/media/slide1.3967c14850717541a74c.jpg",
     "static/media/pasyale.png": "/dev.roshitha/static/media/pasyale.eef573243639eb801173.png",
@@ -13,11 +13,11 @@
     "static/media/booking.jpg": "/dev.roshitha/static/media/booking.24a6677b2e6417d475bb.jpg",
     "static/media/my-logo.png": "/dev.roshitha/static/media/my-logo.cc02364fd65cbd2d67d4.png",
     "index.html": "/dev.roshitha/index.html",
-    "main.d9d06e7c.css.map": "/dev.roshitha/static/css/main.d9d06e7c.css.map",
-    "main.d2701259.js.map": "/dev.roshitha/static/js/main.d2701259.js.map"
+    "main.e71952d7.css.map": "/dev.roshitha/static/css/main.e71952d7.css.map",
+    "main.52ea6473.js.map": "/dev.roshitha/static/js/main.52ea6473.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9d06e7c.css",
-    "static/js/main.d2701259.js"
+    "static/css/main.e71952d7.css",
+    "static/js/main.52ea6473.js"
   ]
 }
