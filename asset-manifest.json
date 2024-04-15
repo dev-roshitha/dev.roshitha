@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dev.roshitha/static/css/main.57daeea5.css",
+    "main.css": "/dev.roshitha/static/css/main.2076c62e.css",
     "main.js": "/dev.roshitha/static/js/main.1540f59e.js",
     "static/media/dasuni.png": "/dev.roshitha/static/media/dasuni.1df3ac8ca7d7bada56dc.png",
     "static/media/edu.png": "/dev.roshitha/static/media/edu.dc1e472d20313f49b852.png",
@@ -13,11 +13,11 @@
     "static/media/booking.jpg": "/dev.roshitha/static/media/booking.24a6677b2e6417d475bb.jpg",
     "static/media/my-logo.png": "/dev.roshitha/static/media/my-logo.cc02364fd65cbd2d67d4.png",
     "index.html": "/dev.roshitha/index.html",
-    "main.57daeea5.css.map": "/dev.roshitha/static/css/main.57daeea5.css.map",
+    "main.2076c62e.css.map": "/dev.roshitha/static/css/main.2076c62e.css.map",
     "main.1540f59e.js.map": "/dev.roshitha/static/js/main.1540f59e.js.map"
   },
   "entrypoints": [
-    "static/css/main.57daeea5.css",
+    "static/css/main.2076c62e.css",
     "static/js/main.1540f59e.js"
   ]
 }
