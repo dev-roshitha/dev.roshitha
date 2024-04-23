@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/dev.roshitha/static/css/main.2076c62e.css",
-    "main.js": "/dev.roshitha/static/js/main.1540f59e.js",
-    "static/media/dasuni.png": "/dev.roshitha/static/media/dasuni.1df3ac8ca7d7bada56dc.png",
-    "static/media/edu.png": "/dev.roshitha/static/media/edu.dc1e472d20313f49b852.png",
-    "static/media/img-01.webp": "/dev.roshitha/static/media/img-01.1d546eff570dd172e0de.webp",
-    "static/media/img-02.webp": "/dev.roshitha/static/media/img-02.f40da5a2103483f36c61.webp",
-    "static/media/slide2.jpg": "/dev.roshitha/static/media/slide2.e3f8244ab63ff3cb1a89.jpg",
-    "static/media/slide1.jpg": "/dev.roshitha/static/media/slide1.3967c14850717541a74c.jpg",
-    "static/media/pasyale.png": "/dev.roshitha/static/media/pasyale.eef573243639eb801173.png",
-    "static/media/weather.jpg": "/dev.roshitha/static/media/weather.8f6506c7c809ba7e9a30.jpg",
-    "static/media/booking.jpg": "/dev.roshitha/static/media/booking.24a6677b2e6417d475bb.jpg",
-    "static/media/my-logo.png": "/dev.roshitha/static/media/my-logo.cc02364fd65cbd2d67d4.png",
-    "index.html": "/dev.roshitha/index.html",
-    "main.2076c62e.css.map": "/dev.roshitha/static/css/main.2076c62e.css.map",
-    "main.1540f59e.js.map": "/dev.roshitha/static/js/main.1540f59e.js.map"
+    "main.css": "/static/css/main.2076c62e.css",
+    "main.js": "/static/js/main.1c3b0828.js",
+    "static/media/dasuni.png": "/static/media/dasuni.1df3ac8ca7d7bada56dc.png",
+    "static/media/edu.png": "/static/media/edu.dc1e472d20313f49b852.png",
+    "static/media/img-01.webp": "/static/media/img-01.1d546eff570dd172e0de.webp",
+    "static/media/img-02.webp": "/static/media/img-02.f40da5a2103483f36c61.webp",
+    "static/media/slide2.jpg": "/static/media/slide2.e3f8244ab63ff3cb1a89.jpg",
+    "static/media/slide1.jpg": "/static/media/slide1.3967c14850717541a74c.jpg",
+    "static/media/pasyale.png": "/static/media/pasyale.eef573243639eb801173.png",
+    "static/media/weather.jpg": "/static/media/weather.8f6506c7c809ba7e9a30.jpg",
+    "static/media/booking.jpg": "/static/media/booking.24a6677b2e6417d475bb.jpg",
+    "static/media/my-logo.png": "/static/media/my-logo.cc02364fd65cbd2d67d4.png",
+    "index.html": "/index.html",
+    "main.2076c62e.css.map": "/static/css/main.2076c62e.css.map",
+    "main.1c3b0828.js.map": "/static/js/main.1c3b0828.js.map"
   },
   "entrypoints": [
     "static/css/main.2076c62e.css",
-    "static/js/main.1540f59e.js"
+    "static/js/main.1c3b0828.js"
   ]
 }
