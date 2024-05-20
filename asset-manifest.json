@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dev.roshitha/static/css/main.2076c62e.css",
-    "main.js": "/dev.roshitha/static/js/main.219824b8.js",
+    "main.css": "/dev.roshitha/static/css/main.90f8d054.css",
+    "main.js": "/dev.roshitha/static/js/main.4d68e198.js",
     "static/media/dasuni.png": "/dev.roshitha/static/media/dasuni.1df3ac8ca7d7bada56dc.png",
     "static/media/edu.png": "/dev.roshitha/static/media/edu.dc1e472d20313f49b852.png",
     "static/media/img-01.webp": "/dev.roshitha/static/media/img-01.1d546eff570dd172e0de.webp",
@@ -11,11 +11,11 @@
     "static/media/booking.jpg": "/dev.roshitha/static/media/booking.24a6677b2e6417d475bb.jpg",
     "static/media/my-logo.png": "/dev.roshitha/static/media/my-logo.cc02364fd65cbd2d67d4.png",
     "index.html": "/dev.roshitha/index.html",
-    "main.2076c62e.css.map": "/dev.roshitha/static/css/main.2076c62e.css.map",
-    "main.219824b8.js.map": "/dev.roshitha/static/js/main.219824b8.js.map"
+    "main.90f8d054.css.map": "/dev.roshitha/static/css/main.90f8d054.css.map",
+    "main.4d68e198.js.map": "/dev.roshitha/static/js/main.4d68e198.js.map"
   },
   "entrypoints": [
-    "static/css/main.2076c62e.css",
-    "static/js/main.219824b8.js"
+    "static/css/main.90f8d054.css",
+    "static/js/main.4d68e198.js"
   ]
 }
